@@ -1,6 +1,8 @@
 Grant's 64x64 Led Matrix File Dump
 ==================================================
 
+Code last updated @ [2020-08-25](https://github.com/GrantKlassy/Grant-DietPi-Led-Matrix/commits/main)
+
 Overview
 --------
 A file dump of my MicroSD card for my 64x64 led matrix setup. I wrote some bash scripts to take image files (animated gifs) and convert them to streams for playback on a 64x64 led matrix. 
